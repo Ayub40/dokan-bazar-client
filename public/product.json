@@ -1,0 +1,402 @@
+[
+    {
+        "productName": "Ultra HD TV",
+        "productImage": "https://ibb.co/hyVN7f9",
+        "price": 699.99,
+        "ratings": 4.8,
+        "category": "Electronics",
+        "brand": "TechVision",
+        "createdAt": "2024-08-19",
+        "description": "A 55-inch Ultra HD TV with vibrant colors and deep contrast."
+    },
+    {
+        "productName": "Leather Wallet",
+        "productImage": "https://ibb.co/B2cXZ5N",
+        "price": 49.99,
+        "ratings": 4.5,
+        "category": "Fashion",
+        "brand": "StyleHub",
+        "createdAt": "2024-08-19",
+        "description": "A premium leather wallet with multiple card slots and compartments."
+    },
+    {
+        "productName": "Gaming Laptop",
+        "productImage": "https://ibb.co/x1Jt4FG",
+        "price": 1199.99,
+        "ratings": 4.7,
+        "category": "Electronics",
+        "brand": "PowerPlay",
+        "createdAt": "2024-08-19",
+        "description": "A high-performance gaming laptop with a powerful GPU and fast refresh rate."
+    },
+    {
+        "productName": "Running Shoes",
+        "productImage": "https://ibb.co/JckNzbq",
+        "price": 89.99,
+        "ratings": 4.4,
+        "category": "Footwear",
+        "brand": "RunFree",
+        "createdAt": "2024-08-19",
+        "description": "Lightweight running shoes designed for speed and comfort."
+    },
+    {
+        "productName": "Smartphone",
+        "productImage": "https://ibb.co/NKv97x1",
+        "price": 799.99,
+        "ratings": 4.6,
+        "category": "Electronics",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A sleek smartphone with a stunning display and advanced camera system."
+    },
+    {
+        "productName": "Designer Handbag",
+        "productImage": "https://ibb.co/9G0MhH6",
+        "price": 249.99,
+        "ratings": 4.7,
+        "category": "Fashion",
+        "brand": "Glamour",
+        "createdAt": "2024-08-19",
+        "description": "A chic designer handbag made from high-quality materials."
+    },
+    {
+        "productName": "Smartwatch",
+        "productImage": "https://ibb.co/sJNQmYt",
+        "price": 199.99,
+        "ratings": 4.8,
+        "category": "Wearable",
+        "brand": "TechVision",
+        "createdAt": "2024-08-19",
+        "description": "A stylish smartwatch with fitness tracking and mobile notifications."
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "productImage": "https://ibb.co/njxSbPL",
+        "price": 59.99,
+        "ratings": 4.5,
+        "category": "Electronics",
+        "brand": "SoundWave",
+        "createdAt": "2024-08-19",
+        "description": "A portable Bluetooth speaker with rich sound and deep bass."
+    },
+    {
+        "productName": "Casual Sneakers",
+        "productImage": "https://ibb.co/GkZhKDZ",
+        "price": 69.99,
+        "ratings": 4.3,
+        "category": "Footwear",
+        "brand": "UrbanWalk",
+        "createdAt": "2024-08-19",
+        "description": "Comfortable and trendy sneakers for everyday wear."
+    },
+    {
+        "productName": "Digital Camera",
+        "productImage": "https://ibb.co/fxKRVSP",
+        "price": 499.99,
+        "ratings": 4.6,
+        "category": "Photography",
+        "brand": "CaptureX",
+        "createdAt": "2024-08-19",
+        "description": "A compact digital camera with high-resolution imaging and zoom."
+    },
+    {
+        "productName": "Fitness Tracker",
+        "productImage": "https://ibb.co/Vq6fcvT",
+        "price": 99.99,
+        "ratings": 4.4,
+        "category": "Wearable",
+        "brand": "HealthPlus",
+        "createdAt": "2024-08-19",
+        "description": "A fitness tracker with heart rate monitoring and GPS."
+    },
+    {
+        "productName": "Leather Jacket",
+        "productImage": "https://ibb.co/QD5gsSd",
+        "price": 149.99,
+        "ratings": 4.7,
+        "category": "Fashion",
+        "brand": "StyleHub",
+        "createdAt": "2024-08-19",
+        "description": "A stylish leather jacket that pairs well with any outfit."
+    },
+    {
+        "productName": "Noise Cancelling Headphones",
+        "productImage": "https://ibb.co/dfrPs5x",
+        "price": 299.99,
+        "ratings": 4.8,
+        "category": "Audio",
+        "brand": "SoundWave",
+        "createdAt": "2024-08-19",
+        "description": "High-fidelity noise-cancelling headphones for immersive listening."
+    },
+    {
+        "productName": "Laptop Backpack",
+        "productImage": "https://ibb.co/GnwhFMR",
+        "price": 79.99,
+        "ratings": 4.6,
+        "category": "Bags",
+        "brand": "UrbanWalk",
+        "createdAt": "2024-08-19",
+        "description": "A durable laptop backpack with ample storage and USB charging port."
+    },
+    {
+        "productName": "Smart Home Hub",
+        "productImage": "https://ibb.co/k6ZmmQX",
+        "price": 149.99,
+        "ratings": 4.5,
+        "category": "Home",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A smart home hub that connects and controls all your smart devices."
+    },
+    {
+        "productName": "Winter Boots",
+        "productImage": "https://ibb.co/PMPXB9K",
+        "price": 129.99,
+        "ratings": 4.7,
+        "category": "Footwear",
+        "brand": "RunFree",
+        "createdAt": "2024-08-19",
+        "description": "Insulated winter boots designed to keep your feet warm and dry."
+    },
+    {
+        "productName": "4K Action Camera",
+        "productImage": "https://ibb.co/846KDTV",
+        "price": 249.99,
+        "ratings": 4.6,
+        "category": "Photography",
+        "brand": "CaptureX",
+        "createdAt": "2024-08-19",
+        "description": "A rugged 4K action camera perfect for capturing outdoor adventures."
+    },
+    {
+        "productName": "Smart Light Bulbs",
+        "productImage": "https://ibb.co/s3FnjMR",
+        "price": 39.99,
+        "ratings": 4.5,
+        "category": "Home",
+        "brand": "TechVision",
+        "createdAt": "2024-08-19",
+        "description": "Smart LED light bulbs with color-changing capabilities and voice control."
+    },
+    {
+        "productName": "Designer Sunglasses",
+        "productImage": "https://ibb.co/V22jCXg",
+        "price": 129.99,
+        "ratings": 4.7,
+        "category": "Fashion",
+        "brand": "Glamour",
+        "createdAt": "2024-08-19",
+        "description": "Stylish designer sunglasses with UV protection and polarized lenses."
+    },
+    {
+        "productName": "Bluetooth Earbuds",
+        "productImage": "https://ibb.co/rkcSd7f",
+        "price": 89.99,
+        "ratings": 4.4,
+        "category": "Audio",
+        "brand": "SoundWave",
+        "createdAt": "2024-08-19",
+        "description": "Wireless Bluetooth earbuds with clear sound and comfortable fit."
+    },
+    {
+        "productName": "Portable Charger",
+        "productImage": "https://ibb.co/V22jCXghttps://ibb.co/PG19t3t",
+        "price": 39.99,
+        "ratings": 4.5,
+        "category": "Electronics",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A high-capacity portable charger with fast charging capabilities."
+    },
+    {
+        "productName": "Casual T-Shirt",
+        "productImage": "https://ibb.co/PY3g33M",
+        "price": 24.99,
+        "ratings": 4.3,
+        "category": "Fashion",
+        "brand": "StyleHub",
+        "createdAt": "2024-08-19",
+        "description": "A soft and breathable casual t-shirt available in various colors."
+    },
+    {
+        "productName": "Wireless Mouse",
+        "productImage": "https://ibb.co/YN4hpqj",
+        "price": 29.99,
+        "ratings": 4.4,
+        "category": "Electronics",
+        "brand": "TechVision",
+        "createdAt": "2024-08-19",
+        "description": "An ergonomic wireless mouse with adjustable DPI settings."
+    },
+    {
+        "productName": "Kitchen Mixer",
+        "productImage": "https://ibb.co/yBny3zM",
+        "price": 199.99,
+        "ratings": 4.6,
+        "category": "Home",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A powerful kitchen mixer with multiple speed settings and attachments."
+    },
+    {
+        "productName": "Sports Watch",
+        "productImage": "https://ibb.co/PGpmGFF",
+        "price": 149.99,
+        "ratings": 4.6,
+        "category": "Wearable",
+        "brand": "HealthPlus",
+        "createdAt": "2024-08-19",
+        "description": "A durable sports watch with water resistance and GPS tracking."
+    },
+    {
+        "productName": "Bluetooth Keyboard",
+        "productImage": "https://ibb.co/N2bB7MS",
+        "price": 49.99,
+        "ratings": 4.4,
+        "category": "Electronics",
+        "brand": "PowerPlay",
+        "createdAt": "2024-08-19",
+        "description": "A compact Bluetooth keyboard compatible with multiple devices."
+    },
+    {
+        "productName": "Camping Gear Set",
+        "productImage": "https://ibb.co/WD0ctz0",
+        "price": 149.99,
+        "ratings": 4.5,
+        "category": "Outdoor",
+        "brand": "RunFree",
+        "createdAt": "2024-08-19",
+        "description": "A complete camping gear set with a tent, sleeping bags, and more."
+    },
+    {
+        "productName": "Waterproof Jacket",
+        "productImage": "https://ibb.co/PTgvxvF",
+        "price": 99.99,
+        "ratings": 4.6,
+        "category": "Outdoor",
+        "brand": "UrbanWalk",
+        "createdAt": "2024-08-19",
+        "description": "A lightweight waterproof jacket perfect for hiking and outdoor activities."
+    },
+    {
+        "productName": "Electric Kettle",
+        "productImage": "https://ibb.co/9YKnDJL",
+        "price": 49.99,
+        "ratings": 4.5,
+        "category": "Home",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A fast-boiling electric kettle with temperature control settings."
+    },
+    {
+        "productName": "Fitness Treadmill",
+        "productImage": "https://ibb.co/VVXs3dj",
+        "price": 599.99,
+        "ratings": 4.7,
+        "category": "Fitness",
+        "brand": "HealthPlus",
+        "createdAt": "2024-08-19",
+        "description": "A compact fitness treadmill with multiple workout programs."
+    },
+    {
+        "productName": "Wireless Earphones",
+        "productImage": "https://ibb.co/7XvGsXy",
+        "price": 79.99,
+        "ratings": 4.4,
+        "category": "Audio",
+        "brand": "SoundWave",
+        "createdAt": "2024-08-19",
+        "description": "High-quality wireless earphones with noise isolation and clear sound."
+    },
+    {
+        "productName": "Waterproof Backpack",
+        "productImage": "https://ibb.co/GnwhFMR",
+        "price": 89.99,
+        "ratings": 4.5,
+        "category": "Bags",
+        "brand": "UrbanWalk",
+        "createdAt": "2024-08-19",
+        "description": "A waterproof backpack ideal for travel and outdoor activities."
+    },
+    {
+        "productName": "Multi-Cooker",
+        "productImage": "https://ibb.co/jMwVkWf",
+        "price": 129.99,
+        "ratings": 4.6,
+        "category": "Home",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A versatile multi-cooker with slow cook, pressure cook, and steam functions."
+    },
+    {
+        "productName": "Smart Thermostat",
+        "productImage": "https://ibb.co/h1bpSG9",
+        "price": 199.99,
+        "ratings": 4.7,
+        "category": "Home",
+        "brand": "TechVision",
+        "createdAt": "2024-08-19",
+        "description": "A smart thermostat with energy-saving features and remote control."
+    },
+    {
+        "productName": "Yoga Pants",
+        "productImage": "https://ibb.co/41R3gFv",
+        "price": 49.99,
+        "ratings": 4.6,
+        "category": "Fitness",
+        "brand": "RunFree",
+        "createdAt": "2024-08-19",
+        "description": "Comfortable yoga pants made from stretchy, moisture-wicking fabric."
+    },
+    {
+        "productName": "Portable Blender",
+        "productImage": "https://ibb.co/RyRtbmV",
+        "price": 59.99,
+        "ratings": 4.4,
+        "category": "Home",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A compact portable blender perfect for smoothies and shakes on the go."
+    },
+    {
+        "productName": "Camping Tent",
+        "productImage": "https://ibb.co/fSw7YTk",
+        "price": 119.99,
+        "ratings": 4.7,
+        "category": "Outdoor",
+        "brand": "RunFree",
+        "createdAt": "2024-08-19",
+        "description": "A spacious waterproof camping tent for up to 4 people."
+    },
+    {
+        "productName": "Smart Water Bottle",
+        "productImage": "https://ibb.co/dg12b7B",
+        "price": 39.99,
+        "ratings": 4.5,
+        "category": "Fitness",
+        "brand": "HealthPlus",
+        "createdAt": "2024-08-19",
+        "description": "A smart water bottle that tracks hydration levels and reminds you to drink."
+    },
+    {
+        "productName": "Electric Scooter",
+        "productImage": "https://ibb.co/23FxJb7",
+        "price": 499.99,
+        "ratings": 4.6,
+        "category": "Outdoor",
+        "brand": "PowerPlay",
+        "createdAt": "2024-08-19",
+        "description": "A lightweight and foldable electric scooter with a long battery life."
+    },
+    {
+        "productName": "Espresso Machine",
+        "productImage": "https://ibb.co/vdJdjXh",
+        "price": 299.99,
+        "ratings": 4.8,
+        "category": "Home",
+        "brand": "Innovate",
+        "createdAt": "2024-08-19",
+        "description": "A premium espresso machine with multiple brew settings and milk frother."
+    }
+]
